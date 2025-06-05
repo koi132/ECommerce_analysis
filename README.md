@@ -31,12 +31,12 @@ Dự án này phân tích dữ liệu từ sàn thương mại điện tử Olis
 
 ## Hướng dẫn sử dụng
 
-**Cài đặt thư viện cần thiết:**
+- **Cài đặt thư viện cần thiết:**
     ```sh
     pip install pandas numpy matplotlib seaborn holidays statsmodels xgboost scikit-learn
     ```
 
-**Chạy notebook:**  
+- **Chạy notebook:**  
    Mở file `ECommerce_analysis.ipynb` trên Jupyter Notebook hoặc VSCode và chạy tuần tự các cell.
 
 ## Kết quả nổi bật
